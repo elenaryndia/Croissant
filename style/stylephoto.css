@@ -1,0 +1,34 @@
+
+    head {
+        display: none;
+    }
+    .container {
+        background: #f8e8a6;
+    }
+    .container {
+        display: block;
+        margin: 8px;
+    }
+
+    h1, p {
+        text-align: center;
+    }
+    
+    .pages a {
+        margin: 0 10px;
+        color: green;
+    }
+    .a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    .pages {
+        text-align: center;
+    }
+    .croissant-photo {
+        max-width: 100%;
+        border-radius: 10px;
+        display: block;
+        margin: 30px auto;
+    }

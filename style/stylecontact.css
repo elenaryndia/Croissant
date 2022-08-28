@@ -1,0 +1,44 @@
+head {
+    display: none;
+}
+body{
+    background: #f8e8a6;
+}
+.container {
+    background:#f8e8a6;
+}
+.container {
+    display: block;
+    margin: 8px;
+}
+h1, p {
+    text-align: center;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.pages a {
+    margin: 0 10px;
+    color: green;
+}
+.a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.pages {
+    text-align: center;
+}
